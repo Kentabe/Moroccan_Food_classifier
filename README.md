@@ -28,7 +28,7 @@ Kaggle API token for dataset download
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/moroccan_food_classifier.git
+git clone https://github.com/Kentabe/Moroccan_Food_classifier.git
 cd moroccan_food_classifier
 
 ## Install the required Python packages:
